@@ -73,5 +73,5 @@ Also PCA plot and boxplot of X/Z Scaffolds:
 
 
 ## Citation
-Please cite our papers:
-......
+Please cite our paper:
+Nursyifa C, Brüniche-Olsen A, Garcia-Erill G, Heller R, Albrechtsen A. (xxxx) Joint identification of sex and sex-linked scaffolds in non-model organisms using low depth sequencing data. BioRxiv https://doi.org/10.1101/2021.03.03.433779
